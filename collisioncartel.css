@@ -1,0 +1,29 @@
+body { 
+	background-image: url("collisioncartelbackground.png");
+	font-family: Helvetica, Verdana, sans-serif; 
+	text-align: center;
+}
+table {
+	border: 5px solid black;
+	border-collapse: collapse;
+	text-align: center;	
+}
+td, tr {
+	width: 200px;
+	border: none;
+}
+.gold {
+	background-color: #C9A954;
+}
+.silver {
+	background-color: #C0C0C0;
+}
+.bronze {
+	background-color: #CA895F;
+}
+.white {
+	background-color: #FFFFFF;
+}
+
+	
+	
